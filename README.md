@@ -12,7 +12,7 @@ Play it on [Itch.io!](https://s4g.itch.io/serpents-trial)
 
 My main focus in this project was the implementation of all 
 [puzzle mechanics](https://github.com/AnubisDev161/Serpent-s-Trial---first-semester-project/tree/main/Scripts/Interactables), while my co-programmer was responsible for the player and enemies. 
-I was also responsible for the [main mechanic](https://github.com/AnubisDev161/Serpent-s-Trial---first-semester-project/blob/main/Scripts/Character/Player/Player_laser.gd) and implemented big parts of the [UI]() and the [sound system](https://github.com/AnubisDev161/Serpent-s-Trial---first-semester-project/blob/main/Scripts/Sound/Music_and_sound_manager.gd).
+I was also responsible for the [main mechanic](https://github.com/AnubisDev161/Serpent-s-Trial---first-semester-project/blob/main/Scripts/Character/Player/Player_laser.gd) and implemented big parts of the [UI](https://github.com/AnubisDev161/Serpent-s-Trial---first-semester-project/tree/main/Scripts/UI/Menus) and the [sound system](https://github.com/AnubisDev161/Serpent-s-Trial---first-semester-project/blob/main/Scripts/Sound/Music_and_sound_manager.gd).
 
 
 ## About the project 
